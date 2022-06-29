@@ -52,9 +52,9 @@ section#telefone {
 }
 section#redes-sociais img:hover {
     border: 2px solid rgba(255, 255, 255, 0.601);
-    transform: translate(-3px,-3px);
-    box-shadow: 5px 5px 10px rgba(0, 0, 255, 0.500);
-    transition: transform .5s border 1s;
+    transform: translate(-3px,-10px);
+    -webkit-transform: translate(-3px,-10px);
+    -moz-transform: translate(-3px,-10px);
+    -ms-transform: translate(-3px,-10px);
+    -o-transform: translate(-3px,-10px);
 }
-    
-    
