@@ -8,7 +8,7 @@
 
 html, body {
     width: 100vh ;
-    height: 100vh;
+    height: 0vh;
     background-color: black;
 }
 body{
